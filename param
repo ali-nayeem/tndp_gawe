@@ -1,0 +1,11 @@
+routeSetSize 8
+pSwap 0.125
+popSize 16
+elite 4
+eilte 4
+pSm 0.7
+pDelete 0.4
+tFit 10
+maxGen 400
+beta 0.5
+run 20
