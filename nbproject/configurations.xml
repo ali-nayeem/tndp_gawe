@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>FanInitRoute.txt</itemPath>
+      <itemPath>best.txt</itemPath>
+      <itemPath>eoGAWE.h</itemPath>
+      <itemPath>initRoute2</itemPath>
+      <itemPath>initRoute3</itemPath>
+      <itemPath>inputData.h</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>param</itemPath>
+      <itemPath>popInit.h</itemPath>
+      <itemPath>route.h</itemPath>
+      <itemPath>routeFitness.h</itemPath>
+      <itemPath>routeSet.h</itemPath>
+      <itemPath>routeSetEvalFunc.h</itemPath>
+      <itemPath>routeSetEvalFunc_old.h</itemPath>
+      <itemPath>routeSetMutation.h</itemPath>
+      <itemPath>routeSetQuadCrossover.h</itemPath>
+      <itemPath>C:/Users/user/Documents/NetBeansProjects/orchestration/small_graph.txt</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>MinGW|MinGW</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <incDir>
+            <pElem>C:/Program Files (x86)/ParadisEO/include/eo</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>C:/Program Files (x86)/ParadisEO/include/eo</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>C:/Program Files (x86)/ParadisEO/lib32</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>eo</linkerLibLibItem>
+            <linkerLibLibItem>eoutils</linkerLibLibItem>
+            <linkerLibLibItem>es</linkerLibLibItem>
+            <linkerLibLibItem>ga</linkerLibLibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/user/Documents/NetBeansProjects/orchestration/small_graph.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="FanInitRoute.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="best.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="eoGAWE.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="initRoute2" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="initRoute3" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="inputData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="param" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="popInit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="route.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeFitness.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetEvalFunc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetEvalFunc_old.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetMutation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetQuadCrossover.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>MinGW|MinGW</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+      </compileType>
+      <item path="C:/Users/user/Documents/NetBeansProjects/orchestration/small_graph.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="FanInitRoute.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="best.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="eoGAWE.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="initRoute2" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="initRoute3" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="inputData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="param" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="popInit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="route.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeFitness.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetEvalFunc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetEvalFunc_old.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetMutation.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="routeSetQuadCrossover.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
