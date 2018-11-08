@@ -1,0 +1,2 @@
+# Transit network design by genetic algorithm with elitism
+This the implementation of our genetic algorithm based approach named GAWE designed to solve the transit network design problem (TNDP). We used C++ on top of a white-box object-oriented framework named [ParadisEO](http://paradiseo.gforge.inria.fr/). The original work is published at [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/science/article/pii/S0968090X14001156).
